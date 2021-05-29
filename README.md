@@ -10,6 +10,6 @@
 - Run command: `php artisan jwt:secret`
 - You should be good now :) 
 
-#### JWT package https://github.com/tymondesigns/jwt-auth
+#### JWT package used https://github.com/tymondesigns/jwt-auth
 
 ##### I am too lazy to create this from scratch for each project.
